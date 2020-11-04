@@ -1,6 +1,6 @@
 // External Deps
-const Eth = require('ethjs-query')
-const EthContract = require('ethjs-contract')
+const Eth = require('@alayanetwork/ethjs-query')
+const EthContract = require('@alayanetwork/ethjs-contract')
 const namehash = require('eth-ens-namehash')
 
 // ABIs
